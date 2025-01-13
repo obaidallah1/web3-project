@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "@nomicfoundation/hardhat-ethers": "^3.0.8",
+    "dotenv": "^16.4.7",
     "ethers": "^5.7.2"
   }
 }
