@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import {BsShieldFillCheck} from 'react-icons/bs';
 import {BiSearchAlt} from 'react-icons/bi';
 import {RiHeart2Fill} from 'react-icons/ri'
